@@ -123,7 +123,7 @@ class HealthDataPoint {
   /// The id of the source from which the data point was fetched.
   String get sourceId => _sourceId;
 
-  /// The name of the source from which the data point was fetched.
+  /// The name of the source from which the data point was fetched
   String get sourceName => _sourceName;
 
   @override
